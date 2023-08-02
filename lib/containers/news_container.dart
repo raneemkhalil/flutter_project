@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/containers/news_title.dart';
 
 class NewsContainer extends StatelessWidget{
   final category;
@@ -17,8 +16,8 @@ class NewsContainer extends StatelessWidget{
   @override
   Widget build(BuildContext context){
     return Container(
-      padding: EdgeInsets.all(10),
-      decoration: BoxDecoration(
+      padding: const EdgeInsets.all(10),
+      decoration: const BoxDecoration(
         color: Colors.white24,
       ),
       child: Row(
@@ -39,7 +38,7 @@ class NewsContainer extends StatelessWidget{
             ),
           ),
           Container(
-            padding: EdgeInsets.only(left:15, top:5),
+            padding: const EdgeInsets.only(left:15, top:5),
             width: MediaQuery.of(context).size.width * 0.51,
             height: MediaQuery.of(context).size.width * 0.35, 
             child: Column(
@@ -47,26 +46,26 @@ class NewsContainer extends StatelessWidget{
               children: [
                 Text(
                   category,
-                  style: TextStyle(
+                  style: const TextStyle(
                     color: Colors.black54,
                   )
                 ),
-                SizedBox(height: 10),
+                const SizedBox(height: 10),
                 Text(
                   title,
-                  style: TextStyle(
+                  style: const TextStyle(
                     fontWeight: FontWeight.bold,
                     fontSize: 13,
                   )
                 ),
-                SizedBox(height: 15),
+                const SizedBox(height: 15),
                 Row(
                   children: [
                     Container(
                       width: MediaQuery.of(context).size.width * 0.08,
                       height: MediaQuery.of(context).size.width * 0.08,
                       clipBehavior: Clip.hardEdge,
-                      decoration: BoxDecoration(
+                      decoration: const BoxDecoration(
                         shape: BoxShape.circle,
                         color: Colors.blue
                       ),
@@ -77,19 +76,19 @@ class NewsContainer extends StatelessWidget{
                         fit: BoxFit.cover
                       )
                     ),
-                    SizedBox(width: 10),
-                    Text(auther, style: TextStyle(fontSize: 11, color: Colors.black54)),
-                    SizedBox(width: 10),
+                    const SizedBox(width: 10),
+                    Text(auther, style: const TextStyle(fontSize: 11, color: Colors.black54)),
+                    const SizedBox(width: 10),
                     Container(
                       width: 5,
                       height: 5,
-                      decoration: BoxDecoration(
+                      decoration: const BoxDecoration(
                         color: Colors.black,
                         shape: BoxShape.circle,
                       )
                     ),
-                    SizedBox(width: 10),
-                    Text(date, style: TextStyle(fontSize: 11, color: Colors.black54)),
+                    const SizedBox(width: 10),
+                    Text(date, style: const TextStyle(fontSize: 11, color: Colors.black54)),
                   ]
                 )
               ]

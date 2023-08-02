@@ -10,11 +10,11 @@
 		</data>
 		<key>flutter_assets/AssetManifest.bin</key>
 		<data>
-		6icJnuVjggBHyZR7vx+lH7eLyeY=
+		LH8cFX3I04nDNSubsXH61L5eEI0=
 		</data>
 		<key>flutter_assets/AssetManifest.json</key>
 		<data>
-		PrHcPfhkestd0WBtnyg4vFgv3dc=
+		2PXVyj2w8eA/UvlE2qjzQ35ZZoQ=
 		</data>
 		<key>flutter_assets/FontManifest.json</key>
 		<data>
@@ -28,9 +28,25 @@
 		<data>
 		+ZBdvYUUvuXrYkWNPAmZWQkFTCQ=
 		</data>
-		<key>flutter_assets/assets/images/sports/voleybal.jpeg</key>
+		<key>flutter_assets/assets/images/app/7168081.png</key>
 		<data>
-		CzPBP7NEaWTnnYakfbXccH0Mszo=
+		+ZBdvYUUvuXrYkWNPAmZWQkFTCQ=
+		</data>
+		<key>flutter_assets/assets/images/app/news.png</key>
+		<data>
+		Zf9tD+Nbn8wtJMRE8g/APwtdr/Q=
+		</data>
+		<key>flutter_assets/assets/images/educations/kids_edu.jpeg</key>
+		<data>
+		wtdxCzMXMc2F29Z4qsdkaxg/3tY=
+		</data>
+		<key>flutter_assets/assets/images/people/lady.jpeg</key>
+		<data>
+		V5ZB2laObCTTm0hUBCD00JUTfO4=
+		</data>
+		<key>flutter_assets/assets/images/people/p-5.jpeg</key>
+		<data>
+		2PeoyzVlPnJnue1NhxtTnR8GHNQ=
 		</data>
 		<key>flutter_assets/assets/images/sports/volleyball.jpeg</key>
 		<data>
@@ -46,7 +62,7 @@
 		</data>
 		<key>flutter_assets/kernel_blob.bin</key>
 		<data>
-		DxR9heSiizokri6t5OuFk1uT34Y=
+		dHlywNQTbLbR7yzyFXofyOti6MM=
 		</data>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -67,14 +83,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			29bbqk5BYbVZF5nGS7yc/bGVpt5J9UF9Xw2S5jbPbg4=
+			D+/DFE4V7FYjvuz6CKs6ZuI1LgjBmp/e++9HZbcuze8=
 			</data>
 		</dict>
 		<key>flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eiB32BwUNzbYpXV/fyx03idFAh1SK1KASG4BRawUS90=
+			3Uq1XRmNbIGqSBJFvFW1SQ6aW4pupCpGhr3iGNr7irE=
 			</data>
 		</dict>
 		<key>flutter_assets/FontManifest.json</key>
@@ -98,11 +114,39 @@
 			JHzY9CIbPBCgxSzrb8HL9x+E3M2HyYZCsQYpI9aIAhA=
 			</data>
 		</dict>
-		<key>flutter_assets/assets/images/sports/voleybal.jpeg</key>
+		<key>flutter_assets/assets/images/app/7168081.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dq8hFWiGr7LfaNTUcG4c74/uiOfR6fz3Oc24O48PDys=
+			JHzY9CIbPBCgxSzrb8HL9x+E3M2HyYZCsQYpI9aIAhA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/app/news.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x9Cbo4+ZuA/cy7Y45PSFbLokIbQp0V4e79Z5UwbfGDM=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/educations/kids_edu.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			P/CenPXQgU22xY7JIZQJu1Q0MNjh9dcDKqyeXgT1OBA=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/people/lady.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+j0FiAcd+HMULZFjKOFv2FbX2W3NTY2/+3wosb9/HN4=
+			</data>
+		</dict>
+		<key>flutter_assets/assets/images/people/p-5.jpeg</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9oX3zqKeRS6oMxDYnmIjwLVjVYLMWH6gZvJBlTyl0Ik=
 			</data>
 		</dict>
 		<key>flutter_assets/assets/images/sports/volleyball.jpeg</key>
@@ -130,7 +174,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ibcJEC1DViXraUWqsTXDZL/3i+BxTBrMbkitVLy4/vc=
+			KGBRhEnU/exmDij2RdhADX1dnyT/nnrZd6EMzxFqYAY=
 			</data>
 		</dict>
 		<key>flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
